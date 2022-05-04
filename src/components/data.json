@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "David",
+        "image": "/images.jpg",
+        "contact": "123456789"
+    },
+    {
+        "id": "2",
+        "name": "Precious",
+        "image": "/images.jpg",
+        "contact": "08984534367"
+    },
+    {
+        "id": "3",
+        "name": "Lucia",
+        "image": "/images.jpg",
+        "contact": "0977r494494874"
+    }
+]
